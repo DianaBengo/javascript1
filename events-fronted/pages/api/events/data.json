@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Throwback Friday With FemiDevs Band",
+      "slug": "dance-fridays-femidevs",
+      "venue": "Horizon Centre1",
+      "adress": "600, 13th Avenue, Kisumu",
+      "performers": " DJ Mongina",
+      "date": "November 15, 2021",
+      "time": "9:00 PM GMT+3",
+      "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Throwback Friday With FemiDevs Band",
+      "slug": "fridays-femidevs",
+      "performers": " DJ Diana",
+      "venue": "united  mall",
+      "adress": "600, 13th Avenue, Kisumu",
+      "date": "December 15, 2021",
+      "time": "9:00 PM GMT+3",
+      "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+      "image": "/images/sample/event4.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "Music Festival",
+      "slug": "femidevs-musicweek",
+      "performers": " DJ renito",
+      "venue": "westend mall",
+      "adress": "100, 1t4h Avenue, Kisumu",
+      "date": "December 22, 2021",
+      "time": "10:00 PM GMT+3",
+      "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+      "image": "/images/sample/event5.jpg"
+    }
+  ]
+}
